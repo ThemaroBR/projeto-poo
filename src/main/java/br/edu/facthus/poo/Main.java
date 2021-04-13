@@ -11,6 +11,13 @@ public class Main {
 	public static void exercicioGrupo05() {
 		System.out.println("Nicolas Vieira Borges");
   }
+	public static void exercicioGrupo1() {
+		System.out.println("Grupo 1:");
+		System.out.println("Cleiton");
+		System.out.println("Giulia Victoria Oliveira Crozara");
+		System.out.println("João Pedro Oliveira da Silva");
+		System.out.println("Mário Eduardo Gonçalves Fortes Filho");
+	}
 	
 	public static void exercicioGrupo2() {
 		System.out.println("Grupo 2:");
@@ -21,8 +28,9 @@ public class Main {
 		System.out.println("Projeto POO - 2021/01");
 
 		exercicioGrupo0();
+		exercicioGrupo1();
 		exercicioGrupo2();
-    exercicioGrupo05();
+        exercicioGrupo05();
 	}
 
 }
